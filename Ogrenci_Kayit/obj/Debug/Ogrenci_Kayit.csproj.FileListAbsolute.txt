@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\bin\Debug\Ogrenci_Kayit.exe.config
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\bin\Debug\Ogrenci_Kayit.exe
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\bin\Debug\Ogrenci_Kayit.pdb
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.Form1.resources
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.Properties.Resources.resources
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.exe
+C:\Users\user\source\repos\Ogrenci_Kayit\Ogrenci_Kayit\obj\Debug\Ogrenci_Kayit.pdb
